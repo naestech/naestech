@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Spotify](https://lastfm-currentsong.apigamers.com/current/naestech?theme=dark)
+
 <!--
 **naestech/naestech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
