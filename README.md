@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Spotify](https://lastfm-currentsong.apigamers.com/current/naestech?theme=dark)
+![Currently Playing](https://lastfm-currentsong.apigamers.com/current/naestech?theme=dark)
 ![Nadine's GitHub stats](https://github-readme-stats.vercel.app/api?username=naestech&theme=graywhite&show_icons=true)
 
 <!--
