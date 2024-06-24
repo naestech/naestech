@@ -1,7 +1,8 @@
 ## Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=naestech&label=Profile%20views&color=60598F&style=flat)
 ![Currently Playing](https://badges.lastfm.workers.dev/last-played?user=naestech)
 
-![Nadine's GitHub stats](https://github-readme-stats.vercel.app/api?username=naestech&theme=dark&show_icons=true)
+![Nadine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naestech&theme=dark&show_icons=true)
 
 <!--
 **naestech/naestech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
