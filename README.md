@@ -9,6 +9,14 @@
   </p>
 </div>
 
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gdqif9tzdsru8zeakw9e7ruwn&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gdqif9tzdsru8zeakw9e7ruwn&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" alt="Now Playing - Spotify">
+  </a>
+</div>
+
+
+
 [![Now Playing - Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=gdqif9tzdsru8zeakw9e7ruwn&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=gdqif9tzdsru8zeakw9e7ruwn&redirect=true)
 
 <!--
