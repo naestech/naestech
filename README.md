@@ -1,9 +1,9 @@
 ## Hi there 👋
-
-![Currently Playing](https://lastfm-currentsong.apigamers.com/current/naestech?theme=dark)
 ![Currently Playing](https://badges.lastfm.workers.dev/last-played?user=naestech)
 
 ![Nadine's GitHub stats](https://github-readme-stats.vercel.app/api?username=naestech&theme=graywhite&show_icons=true)
+
+![Currently Playing](https://lastfm-currentsong.apigamers.com/current/naestech?theme=dracula)
 
 <!--
 **naestech/naestech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
