@@ -2,8 +2,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=naestech&label=Profile%20views&color=60598F&style=flat)
 ![Currently Playing](https://badges.lastfm.workers.dev/last-played?user=naestech)
 
-![Nadine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naestech&theme=dark&show_icons=true)
-
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=naestech&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="nadine's stats" height="165">
