@@ -15,8 +15,8 @@
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=naestech&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="nadine's stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naestech&theme=dark&hide_border=true" alt="nadine's streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=naestech&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Nadine's Github Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naestech&theme=dark&hide_border=true" alt="Nadine's Github Streak" height="165">
   </p>
 </div>
 
