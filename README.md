@@ -1,27 +1,46 @@
 ## welcome to my island 🏝️ 
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript">
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three JS">
+  <img src="https://img.shields.io/badge/next%20js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS">
+  <img src="https://img.shields.io/badge/Node%20js-black?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS">
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=naestech&label=Profile%20views&color=60598F&style=flat)
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+</div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+<hr>
 
 <div class="badges-githubstats">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=naestech&label=Profile%20views&color=000000&style=flat" alt="Profile Views">
+  </p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=naestech&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Nadine's Github Stats" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=naestech&theme=dark&hide_border=true" alt="Nadine's Github Streak" height="165">
   </p>
 </div>
 
-<div class="badges-githubstats">
+<hr>
+
+<p align="center">
+  <a href="https://www.instagram.com/technaelogy/">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.goodreads.com/user/show/159912881-nae">
+    <img src="https://img.shields.io/badge/Goodreads-black?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads">
+  </a>
+</p>
+
+<div class="badges-nowlistening">
   <p align="center">
     <img src="https://lastfm-recently-played.vercel.app/api?user=naestech" alt="Scrobbles - Last.fm" height="165">
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gdqif9tzdsru8zeakw9e7ruwn&redirect=true">
@@ -29,8 +48,6 @@
     </a>
   </p>
 </div>
-
-
 
 <!--
 **naestech/naestech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
