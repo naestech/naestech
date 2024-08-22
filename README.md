@@ -1,3 +1,4 @@
+<hr>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript">
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" alt="React">
@@ -47,7 +48,7 @@
     </a>
   </p>
 </div>
-
+<hr>
 <!--
 **naestech/naestech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
