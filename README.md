@@ -24,6 +24,15 @@
 </div>
 
 <hr>
+<div class="badges-nowlistening">
+  <p align="center">
+    <img src="https://lastfm-recently-played.vercel.app/api?user=naestech" alt="Scrobbles - Last.fm" height="165">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gdqif9tzdsru8zeakw9e7ruwn&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gdqif9tzdsru8zeakw9e7ruwn&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" alt="Now Playing - Spotify" height="165">
+    </a>
+  </p>
+</div>
+
 <p align="center">
   <a href="https://www.instagram.com/technaelogy/">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -38,15 +47,6 @@
     <img src="https://img.shields.io/badge/Goodreads-black?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads">
   </a>
 </p>
-
-<div class="badges-nowlistening">
-  <p align="center">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=naestech" alt="Scrobbles - Last.fm" height="165">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gdqif9tzdsru8zeakw9e7ruwn&redirect=true">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gdqif9tzdsru8zeakw9e7ruwn&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" alt="Now Playing - Spotify" height="165">
-    </a>
-  </p>
-</div>
 <hr>
 
 <div class="badges-githubstats">
