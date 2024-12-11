@@ -30,6 +30,12 @@
 </div>
 
 <p align="center">
+  <a href="https://bsky.app/profile/naes.tech/">
+    <img src="https://img.shields.io/badge/Bluesky-black?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
+  </a>
+  <a href="https://www.goodreads.com/user/show/159912881-nae">
+    <img src="https://img.shields.io/badge/Goodreads-black?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads">
+  </a>
   <a href="https://www.instagram.com/technaelogy/">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
@@ -38,9 +44,6 @@
   </a>
   <a href="https://technaelogy.substack.com/">
     <img src="https://img.shields.io/badge/Substack-black?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
-  </a>
-  <a href="https://www.goodreads.com/user/show/159912881-nae">
-    <img src="https://img.shields.io/badge/Goodreads-black?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads">
   </a>
 </p>
 <hr>
