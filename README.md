@@ -23,39 +23,18 @@
 <hr>
 <div class="badges-nowlistening">
   <p align="center">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=naestech" alt="Scrobbles - Last.fm" height="165">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gdqif9tzdsru8zeakw9e7ruwn&redirect=true">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gdqif9tzdsru8zeakw9e7ruwn&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" alt="Now Playing - Spotify" height="165">
-    </a>
+    <img src="https://lastly.nisarga.me/api/recent?username=naestech" alt="nae's overall music stats">
   </p>
 </div>
-
-<p align="center">
-  <a href="https://bsky.app/profile/naes.tech/">
-    <img src="https://img.shields.io/badge/Bluesky-black?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
-  </a>
-  <a href="https://www.goodreads.com/user/show/159912881-nae">
-    <img src="https://img.shields.io/badge/Goodreads-black?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads">
-  </a>
-  <a href="https://www.instagram.com/technaelogy/">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/naestech/">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-  </a>
-  <a href="https://technaelogy.substack.com/">
-    <img src="https://img.shields.io/badge/Substack-black?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
-  </a>
-</p>
 <hr>
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=naestech&label=Profile%20views&color=000000&style=flat" alt="Profile Views">
+    <img src="https://github-readme-stats.vercel.app/api?username=naestech&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="nae's github stats" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naestech&theme=dark&hide_progress=true" alt="nae's top languages" height="165">
   </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=naestech&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Nadine's Github Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naestech&theme=dark&hide_border=true" alt="Nadine's Github Streak" height="165">
+    <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=naestech&label=Profile%20views&color=000000&style=flat" alt="Profile Views">
   </p>
 </div>
 
