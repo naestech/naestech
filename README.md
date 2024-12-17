@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript">
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
   <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three JS">
   <img src="https://img.shields.io/badge/next%20js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS">
   <img src="https://img.shields.io/badge/Node%20js-black?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS">
