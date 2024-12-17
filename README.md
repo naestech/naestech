@@ -30,7 +30,7 @@
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=naestech&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="nae's github stats" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=naestech&theme=dark&show_icons=true&rank_icon=github&count_private=true" alt="nae's github stats" height="165">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naestech&theme=dark&hide_progress=true" alt="nae's top languages" height="165">
   </p>
     <p align="center">
