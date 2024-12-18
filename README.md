@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
   <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three JS">
-  <img src="https://img.shields.io/badge/next%20js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS">
   <img src="https://img.shields.io/badge/Node%20js-black?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS">
   <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
