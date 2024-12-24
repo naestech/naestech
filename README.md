@@ -33,12 +33,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=naestech&theme=dark&show_icons=true&rank_icon=github&count_private=true" alt="nae's github stats" height="165">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naestech&theme=dark&hide_progress=true" alt="nae's top languages" height="165">
   </p>
+</div>
+<hr>
     <p align="center">
     <img src="https://komarev.com/ghpvc/?username=naestech&label=Profile%20views&color=000000&style=flat" alt="Profile Views">
   </p>
-</div>
 
-<hr>
+
   
 <!--
 **naestech/naestech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
