@@ -1,10 +1,15 @@
 <hr>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript">
-  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
+  <img src="https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Yarn-black?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn">
+  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript">
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
   <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three JS">
   <img src="https://img.shields.io/badge/Node%20js-black?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS">
   <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -18,7 +23,6 @@
     <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
     <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-    <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
 
 <hr>
