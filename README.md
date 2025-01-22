@@ -24,14 +24,16 @@
     <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
     <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
 </div>
-
 <hr>
+
+<!--
 <div class="badges-nowlistening">
   <p align="center">
     <img src="https://lastly.nisarga.me/api/recent?username=naestech" alt="nae's overall music stats">
   </p>
 </div>
 <hr>
+-->
 
 <div class="badges-githubstats">
   <p align="center">
