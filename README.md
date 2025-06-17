@@ -13,8 +13,8 @@ shell              zsh 5.9
 terminal           iterm2
 location           california && texas
 hobbies            reading, music, drawing
-commits            50
-visits             2375
+commits            1146
+visits             2380
 website            [naes.tech](https://naes.tech)
 
 ```
