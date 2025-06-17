@@ -2,10 +2,10 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # daily at midnight UTC
+    - cron: '0 0 * * *' 
   push:
     branches: [ main ]
-  workflow_dispatch:  # manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -55,7 +55,7 @@ jobs:
           if [ -f README.md ] && grep -q "visits" README.md; then
             CURRENT_VISITS=$(grep "visits" README.md | grep -o '[0-9]\+' | tail -1)
           else
-            CURRENT_VISITS=2371
+            CURRENT_VISITS=2385
           fi
           INCREMENT=$((RANDOM % 5 + 1))
           NEW_VISITS=$((CURRENT_VISITS + INCREMENT))

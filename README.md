@@ -7,16 +7,14 @@
 ```txt
 naestech@github
 ---------------
-
 os                 macOS
 shell              zsh 5.9
 terminal           iterm2
 location           california && texas
 hobbies            reading, music, drawing
-commits            1146
-visits             2380
-website            [naes.tech](https://naes.tech)
-
+commits            1121
+visits             2385
+website            https://naes.tech
 ```
 
 #
@@ -29,5 +27,4 @@ frontend           html, css, javascript, typescript
 libraries          react, react native, node.js, three.js
 tools              docker, expo, yarn
 learning           .net, linux ricing, shaders
-
 ```
