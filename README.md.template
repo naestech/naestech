@@ -24,5 +24,5 @@ backend            c, c++, go, java, kotlin, lua, python
 frontend           html, css, javascript, typescript
 libraries          react, react native, node.js, three.js
 tools              docker, expo, yarn
-learning           .net, linux ricing, shaders
+learning           .net, linux ricing, robotics, shaders
 ```
