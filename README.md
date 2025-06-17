@@ -12,7 +12,7 @@ shell              zsh 5.9
 terminal           iterm2
 editor             neovim, btw
 commits            1146
-visits             2390
+visits             2393
 ```
 
 #
