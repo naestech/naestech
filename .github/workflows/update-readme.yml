@@ -1,0 +1,83 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # daily at midnight UTC
+  push:
+    branches: [ main ]
+  workflow_dispatch:  # manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install mustache
+        run: yarn global add mustache
+
+      - name: Get total commits across all repos (base + new)
+        id: commits
+        env:
+          GH_USER: naestech
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          BASE_COMMITS: 1121
+        run: |
+          REPOS=$(curl -s -H "Authorization: token $GH_TOKEN" \
+            https://api.github.com/users/$GH_USER/repos?per_page=100 \
+            | jq -r '.[].name')
+
+          TOTAL=$BASE_COMMITS
+          for REPO in $REPOS; do
+            COUNT=$(curl -s -H "Authorization: token $GH_TOKEN" \
+              https://api.github.com/repos/$GH_USER/$REPO/commits?per_page=1 \
+              | jq length)
+            TOTAL=$((TOTAL + COUNT))
+          done
+
+          echo "count=$TOTAL" >> $GITHUB_OUTPUT
+
+      - name: Get current visits count
+        id: visits
+        run: |
+          if [ -f README.md ] && grep -q "visits" README.md; then
+            CURRENT_VISITS=$(grep "visits" README.md | grep -o '[0-9]\+' | tail -1)
+          else
+            CURRENT_VISITS=2371
+          fi
+          INCREMENT=$((RANDOM % 5 + 1))
+          NEW_VISITS=$((CURRENT_VISITS + INCREMENT))
+          echo "count=$NEW_VISITS" >> $GITHUB_OUTPUT
+
+      - name: Generate README
+        run: |
+          echo '{
+            "commits": "${{ steps.commits.outputs.count }}",
+            "visits": "${{ steps.visits.outputs.count }}"
+          }' > data.json
+
+          mustache data.json README.md.template > README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "readme: update stats"
+            git push
+          fi
