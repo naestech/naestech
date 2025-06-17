@@ -2,7 +2,7 @@
 > fastfetch
 ```
 
-<img align="left" src="https://naes.tech/naes.png" alt="nae!" width="200" height="290" />
+<img align="left" src="https://naes.tech/naes.png" alt="nae!" width="175" height="240" />
 
 ```txt
 naestech@github
@@ -10,11 +10,9 @@ naestech@github
 os                 macOS
 shell              zsh 5.9
 terminal           iterm2
-location           california && texas
-hobbies            reading, music, drawing
+editor             neovim, btw
 commits            1146
 visits             2390
-website            https://naes.tech
 ```
 
 #
