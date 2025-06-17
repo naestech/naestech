@@ -10,7 +10,7 @@ naestech@github
 os                 macOS
 shell              zsh 5.9
 terminal           iterm2
-editor             neovim, btw
+editor             neovim
 commits            1146
 visits             2396
 ```
